@@ -22,10 +22,11 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Usage:
 ```
-git clone https://github.com/cyberkallan/inshackle-bot
+git clone https://github.com/Varchar7/inshackle-edited.git
 cd inshackle-bot
 bash inshackle.sh
 ```
+### Also You can Change celeb_id to be safe from " Tell us " Error and SUSPENS OF ACCOUNT
 
 ### Donate!
 Support the authors:
