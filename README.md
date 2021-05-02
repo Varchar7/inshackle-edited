@@ -13,7 +13,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
 #### Unfollow all your following
 #### Changed The Timing of Follow And Unfollow
-#### Added Some Celebgram Version Like celebgram celebgram_1 celebgram_2
+#### Added Some Celebgram Version Like celeb_id celeb_id1 celeb_id2
 
 ![ins](https://user-images.githubusercontent.com/56509491/66778205-b18ad580-eee8-11e9-8904-2c536b1a365d.JPG)
 
